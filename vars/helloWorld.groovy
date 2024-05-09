@@ -1,3 +1,3 @@
-def greeting() {
-    println "Hello, World!"
+def greeting(name) {
+    echo "Hey ${name}, Welcome!"
 }
