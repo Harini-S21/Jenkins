@@ -1,3 +1,3 @@
-def greeting(name) {
-    println "Hello, $name!"
+def greeting() {
+    println "Hello, World!"
 }
